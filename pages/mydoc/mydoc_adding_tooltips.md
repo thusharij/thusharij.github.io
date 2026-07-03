@@ -10,6 +10,8 @@ folder: mydoc
 ---
 
 ## Creating tooltips
+
+testing
 Because this theme is built on Bootstrap, you can simply use a specific attribute on an element to insert a tooltip.
 
 Suppose you have a glossary.yml file inside your \_data folder. You could pull in that glossary definition like this:
